@@ -1,0 +1,520 @@
+header.top-header{
+    background-image: url(../images/mt-2257-header-home.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.head{
+    display: inline-block;
+    background-color: #ffab07;
+    color: #fff;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+.head2{
+    display: inline-block;
+    background-color: #ffab07;
+    color: #fff;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+.navbar {
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+}
+.nav-item{
+    margin-right: 15px;
+}
+.nav-item .home{
+    border-bottom:#ffab07 solid 5px;
+    padding:15px 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item .destination{
+    padding:25px 0;
+    margin: 0;
+}
+.homee{
+    display: block;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #ffab07;
+}
+.btn-home {
+    display: block;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #fff;
+}
+.btn-home:hover {
+    color: #ffab07;
+    border-bottom:#ffab07 solid 5px;
+}
+.main1{
+    margin-top: 100px;
+}
+.main2{
+    color: #fff;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    margin: 0;
+}
+.main2a{
+    color: #fff;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+.main3{
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0;
+}
+.btn-tour{
+    margin-top: 50px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding:  15px 35px;
+    font-size: 0.9em;
+    font-weight: 750;
+    margin-right: 5px;
+    background-color: #ffab07;
+    margin-bottom: 9em;
+}
+.btn-tour:hover{
+    background: #fff;
+    color:#ffab07;
+}
+.belong{
+    text-align: center;
+    margin-top: 1.5em;
+}
+.belong1{
+    font-style: normal;
+    font-weight: 900;
+}
+.pick{
+    color: #6e767d;
+}
+.main{
+    margin: 0 20px;
+}
+.u{
+    color: #ffab07;
+    font-weight: 900;
+    font-size: 100px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.item{
+    background-image: url(../images/mt-2257-home-img01.jpg);
+    background-size: cover;
+}
+.pick2{
+    color: #fff;
+    font-size: 0.9em;
+    padding-left: 30px;
+}
+.pick2a{
+    color: #fff;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+.bg{
+    padding-top: 500px;
+    padding-left: 30px;
+}
+.btn-tour1{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding:  10px 30px;
+    font-size: 0.9em;
+    font-weight: 700;
+    background-color: #ffab07;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.item1{
+    background-image: url(../images/mt-2257-home-img02.jpg);
+    background-size: cover;
+}
+.item2{
+    background-image: url(../images/mt-2257-home-img03.jpg);
+    background-size: cover;
+}
+.item3{
+    background-image: url(../images/mt-2257-home-img04.jpg);
+    background-size: cover;
+}
+.item4{
+    background-image: url(../images/mt-2257-home-img05.jpg);
+    background-size: cover;
+}
+.item5{
+    background-image: url(../images/mt-2257-home-img06.jpg);
+    background-size: cover;
+}
+.item6{
+    background-image: url(../images/mt-2257-home-img07.jpg);
+    background-size: cover;
+}
+.item7{
+    background-image: url(../images/mt-2257-home-img08.jpg);
+    background-size: cover;
+}
+.btn-tour2{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding:  5px 20px;
+    font-size: 0.9em;
+    font-weight: 700;
+    background-color: #ffab07;
+    margin-bottom: 15px;
+    margin-top: 150px;
+}
+.pick3{
+    font-weight: 800;
+    color: #fff;
+    padding-left: 20px;
+    padding-bottom: 35px;
+}
+.pick3a{
+    font-weight: 800;
+    font-size: 1.5em;
+    color: #fff;
+    padding-left: 20px;
+    padding-bottom: 35px;
+}
+.pick4{
+    color: #fff;
+}
+.pick5{
+    font-size: 1.5em;
+    font-weight: 800;
+}
+.pick6{
+    font-weight: 800;
+    color: #fff;
+    font-size: 50px;
+    padding-top: 0;
+}
+.r{
+    padding-top: 20px;
+}
+.btn-tour3{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding:  5px 20px;
+    font-size: 0.9em;
+    font-weight: 700;
+    background-color: #ffab07;
+    margin-bottom: 15px;
+    margin-top: 300px;
+}
+.btn-tour4{
+    display: inline-block;
+    color: #ffab07;
+    text-decoration: none;
+    padding:  5px 20px;
+    font-size: 0.9em;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 150px;
+}
+.main5{
+    background-image: url(../images/mt-2257-slider-img02.jpg);
+    background-size: cover;
+    margin-top: 40px;
+    padding-left: 45px;
+}
+.main6{
+    background-color:#ffab07;
+    margin: 0 auto;
+}
+.main6a{
+    margin-top: 90px;
+    margin-bottom: 90px;
+    border-left: #fff solid 5px;
+    padding: 0 30px;
+    color: #fff;
+}
+.form-controll {
+    padding: 0.7rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+}
+.subscribe{
+    background-color: #29353e;
+    color: #fff;
+    border: none;
+    padding: 0.7rem 0.75rem;
+    margin-left: 10px;
+    font-weight: 700;
+}
+.pict{
+    background-image: url(../images/mt-2257-home-img09.png);
+    width: 100px;
+    height: 100px;
+    padding-left: 200px;
+    padding-bottom: 150px;
+    margin-left: 350px;
+}
+.pict2{
+    background-image: url(../images/mt-2257-home-img10.png);
+    width: 290px;
+    height: 200px;
+    margin-right: 300px;
+    margin-top: -40px;
+}
+.pict3{
+    width:fit-content;
+    height:fit-content;
+    margin-top: -150px;
+    margin-left: 185px;
+}
+.main6b{
+    margin: 0;
+    background-color: #ffab07;
+
+}
+.subscribe:hover{
+    background-color: #fff;
+    color: #212529;
+}
+.belong2{
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 100px;
+}
+.main7{
+    background-image: url(../images/mt-2257-home-img12.jpg);
+    background-size: cover;
+}
+.main7a{
+    background-image: url(../images/mt-2257-home-img14.jpg);
+    background-size: cover;
+}
+.main7b{
+    background-image: url(../images/mt-2257-home-img16.jpg);
+    background-size: cover;
+}
+.main7c{
+    background-image: url(../images/mt-2257-home-img18.jpg);
+    background-size: cover;
+}
+.main7d{
+    background-image: url(../images/mt-2257-home-img13.jpg);
+    background-size: cover;
+}
+.main7e{
+    background-image: url(../images/mt-2257-home-img15.jpg);
+    background-size: cover;
+}
+.main7f{
+    background-image: url(../images/mt-2257-home-img17.jpg);
+    background-size: cover;
+}
+.main7g{
+    background-image: url(../images/mt-2257-home-img19.jpg);
+    background-size: cover;
+}
+.pick3b{
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.5em;
+    color: #fff;
+    padding-bottom: 25px;
+    padding-top: 4em;
+}
+.main8{
+    background-image: url(../images/mt-2257-content-bg02.jpg);
+    background-size: cover;
+    margin-top: 100px;
+    text-align: center;
+}
+.main8a{
+    padding-top: 100px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.pick5b{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 900;
+    padding-top: 30px;
+}
+.pick7{
+    color: #fff;
+}
+.box{
+    background-color: #fff;
+    width: 800px;
+    height: 200px;
+    margin-left: 250px;
+    padding-bottom: 100px;
+}
+.main8c{
+    width: 50px;
+    height: 100px;
+}
+.pick7b{
+    padding-top: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #29353e;
+    margin-bottom: 0;
+}
+.pick7c{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 500;
+    color: #29353e;
+    margin-bottom: 0;
+}
+.pick7d{
+    font-size: 18px;
+    font-weight: 500;
+    color: #29353e;
+}
+.pick7e{
+    padding-top: 50px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+}
+.main9{
+    background-color: #29353e;
+}
+.main9a{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.main9b{
+    margin-right: 10px;
+}
+.pick8{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-decoration: none;
+}
+.pick8:hover{
+    color: #ffab07;
+}
+.main10{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.pick8a{
+    padding-top: 50px;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    color:#ffab07;
+    margin-left: 385px;
+}
+.pick8a:hover{
+    color: #fff;
+}
+.pick8b{
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color:#fff;
+    margin-left: 200px;
+}
+.main10c{
+    text-align: center;
+    padding-top: 7px;
+    background-color: #29353e;
+    color: #fff;
+    border: #fff solid 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    display: inline-block;
+}
+.main10g{
+    text-align: center;
+    padding-top: 7px;
+    background-color: #29353e;
+    color: #fff;
+    border: #fff solid 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    display: inline-block;
+}
+.main10e{
+    text-align: center;
+    padding-top: 7px;
+    background-color: #29353e;
+    color: #fff;
+    border: #fff solid 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    display: inline-block;
+}
+.main10f{
+    text-align: center;
+    padding-top: 7px;
+    background-color: #29353e;
+    color: #fff;
+    border: #fff solid 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    display: inline-block;
+}
+.main10c:hover{
+    background-color: #337ab7;
+}
+.main10e:hover{
+    background-color: #e624b5;
+}
+.main10f:hover{
+    background-color: #e71224;
+}
+.main10g:hover{
+    background-color: #49d5da;
+}
+.main10d{
+    margin-left: 310px;
+}
+.fotter{
+    text-align: center;
+}
+.main11{
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
